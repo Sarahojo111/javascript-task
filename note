@@ -1,0 +1,55 @@
+1. Simple Function
+Write a function greet(name) that takes a name as a parameter and returns a greeting string "Hello, <name>!".
+2. Array Basics
+Create an array of numbers and write a function sumArray(arr) that takes an array of numbers as input and returns the sum of the numbers.
+3. Object Creation
+Create an object car with properties make, model, and year. Write a function getCarInfo(car) that returns a string like "Make: <make>, Model: <model>, Year: <year>".
+4. Loop through Array
+Write a function printArray(arr) that loops through an array and prints each element.
+5. Conditional Statements
+Write a function checkNumber(num) that takes a number as input and returns "Even" if the number is even, and "Odd" if the number is odd.
+6. Array of Objects
+Create an array of student objects where each object has properties name, age, and grade. Write a function printStudentNames(students) that prints the names of all students.
+7. Loop with Condition
+Write a function filterEvenNumbers(arr) that takes an array of numbers and returns a new array with only the even numbers.
+8. Modify Object Property
+Given a person object with properties name and age, write a function celebrateBirthday(person) that increases the person's age by 1.
+9. Array Manipulation
+Write a function removeFirstAndLast(arr) that removes the first and last elements from an array and returns the modified array.
+10. Function inside Object
+Add a method introduce() to the person object that prints "Hi, I am <name> and I am <age> years old!".
+11. Nested Loops
+Write a function multiplyTable(n) that prints a multiplication table for numbers from 1 to n.
+12. Combining Arrays and Loops
+Write a function mergeArrays(arr1, arr2) that takes two arrays and returns a single array with all elements from both arrays.
+13. Searching in an Array
+Write a function findStudentByName(students, name) that searches for a student by name in an array of student objects and returns the student object if found, or null if not found.
+14. Conditional with Objects
+Write a function checkPassing(students) that takes an array of students and returns a list of students with grade >= 50.
+15. Object with Array Property
+Modify the car object to have a features array (e.g., ["air conditioning", "navigation"]). Write a function printCarFeatures(car) that prints all features of the car.
+16. Array of Functions
+Write an array mathOperations with functions for addition, subtraction, multiplication, and division. Write a function executeOperations(arr, a, b) that calls each function with the arguments a and b and prints the results.
+17. Higher-Order Functions
+Write a function filterArray(arr, callback) that takes an array and a callback function and returns a new array where the callback function returns true.
+18. Object in Loop
+Write a function updateGrades(students, bonus) that loops through the students and increases their grades by the bonus amount.
+19. Recursion
+Write a recursive function factorial(n) that returns the factorial of a number.
+20. Array of Objects Manipulation
+Write a function promoteStudents(students) that increases the grade of each student in an array by 10%, but caps it at 100.
+21. Sorting an Array
+Write a function sortStudentsByGrade(students) that sorts an array of student objects by their grade in descending order.
+22. Combining Array Methods
+Write a function averageGrade(students) that calculates the average grade of all students using map() and reduce().
+23. Nested Objects
+Create a school object that contains an array of classroom objects. Each classroom has a name and a list of students. Write a function printClassrooms(school) that prints the classroom names and their student counts.
+24. Array Filtering with Conditions
+Write a function filterPassingStudentsInClass(school, className) that filters and returns the names of students with grades >= 50 in the specified classroom.
+25. Comprehensive Project
+Create a simple "Gradebook" system. You should be able to:
+Add students to the gradebook.
+View all students.
+Search for a student by name.
+Update a student’s grade.
+Filter and display students who are passing (grade >= 50). Use all concepts learned (functions, arrays, objects, loops, conditionals).
